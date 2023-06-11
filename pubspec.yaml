@@ -1,6 +1,6 @@
 name: flutter_localized_countries
 description: Country code to name mappings for several languages
-version: 2.0.0
+version: 2.0.1
 author: Mykola Pokhylets <pohilets@gmail.com>
 homepage: https://github.com/nickolas-pohilets/flutter-localized-countries
 
