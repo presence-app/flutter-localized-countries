@@ -20,4 +20,4 @@ dev_dependencies:
 flutter:
   assets:
     - data/
-    - languages.json
+    - data/languages.json
